@@ -11,10 +11,10 @@ Made for a school project, FakeBook is a great learning app that helps me get th
 ## Screenshots
 
 ### Home Page
-<img src="Screen1.png" alt="Home Page" style="max-width:350px;"/>
+<img src="Screen1.png" alt="Home Page" width="380"/>
 
 ### User List Page
-<img src="Screen2.png" alt="User List Page" style="max-width:350px;"/>
+<img src="Screen2.png" alt="User List Page" width="380"/>
 
 ### Profile Detail Page
-<img src="Screen3.png" alt="Profile Detail Page" style="max-width:350px;"/>
+<img src="Screen3.png" alt="Profile Detail Page" width="380"/>
